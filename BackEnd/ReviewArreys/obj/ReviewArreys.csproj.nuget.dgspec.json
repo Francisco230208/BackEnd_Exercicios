@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\Hello\\Hello.csproj": {}
+    "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\ReviewArreys\\ReviewArreys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\Hello\\Hello.csproj": {
+    "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\ReviewArreys\\ReviewArreys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\Hello\\Hello.csproj",
-        "projectName": "Hello",
-        "projectPath": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\ReviewArreys\\ReviewArreys.csproj",
+        "projectName": "ReviewArreys",
+        "projectPath": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\ReviewArreys\\ReviewArreys.csproj",
         "packagesPath": "C:\\Users\\44788197855\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\Hello\\obj\\",
+        "outputPath": "C:\\Users\\44788197855\\Desktop\\BackEnd_Exercicios\\BackEnd\\ReviewArreys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\44788197855\\AppData\\Roaming\\NuGet\\NuGet.Config"

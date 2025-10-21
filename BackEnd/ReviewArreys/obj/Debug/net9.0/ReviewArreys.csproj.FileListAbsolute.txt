@@ -1,0 +1,15 @@
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\bin\Debug\net9.0\ReviewArreys.exe
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\bin\Debug\net9.0\ReviewArreys.deps.json
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\bin\Debug\net9.0\ReviewArreys.runtimeconfig.json
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\bin\Debug\net9.0\ReviewArreys.dll
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\bin\Debug\net9.0\ReviewArreys.pdb
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.AssemblyInfoInputs.cache
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.AssemblyInfo.cs
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.csproj.CoreCompileInputs.cache
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.sourcelink.json
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.dll
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\refint\ReviewArreys.dll
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.pdb
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ReviewArreys.genruntimeconfig.cache
+C:\Users\44788197855\Desktop\BackEnd_Exercicios\BackEnd\ReviewArreys\obj\Debug\net9.0\ref\ReviewArreys.dll
