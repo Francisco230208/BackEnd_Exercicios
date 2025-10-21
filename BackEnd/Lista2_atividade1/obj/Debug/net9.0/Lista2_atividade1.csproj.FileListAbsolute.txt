@@ -1,0 +1,14 @@
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\bin\Debug\net9.0\Lista2_atividade1.exe
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\bin\Debug\net9.0\Lista2_atividade1.deps.json
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\bin\Debug\net9.0\Lista2_atividade1.runtimeconfig.json
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\bin\Debug\net9.0\Lista2_atividade1.dll
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\bin\Debug\net9.0\Lista2_atividade1.pdb
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.AssemblyInfoInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.AssemblyInfo.cs
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.csproj.CoreCompileInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.dll
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\refint\Lista2_atividade1.dll
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.pdb
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\Lista2_atividade1.genruntimeconfig.cache
+C:\Users\44788197855\Desktop\BackEnd\Lista2_atividade1\obj\Debug\net9.0\ref\Lista2_atividade1.dll

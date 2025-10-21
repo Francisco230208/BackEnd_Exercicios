@@ -1,0 +1,14 @@
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\bin\Debug\net9.0\Exrecicio21.exe
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\bin\Debug\net9.0\Exrecicio21.deps.json
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\bin\Debug\net9.0\Exrecicio21.runtimeconfig.json
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\bin\Debug\net9.0\Exrecicio21.dll
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\bin\Debug\net9.0\Exrecicio21.pdb
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.AssemblyInfoInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.AssemblyInfo.cs
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.csproj.CoreCompileInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.dll
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\refint\Exrecicio21.dll
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.pdb
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\Exrecicio21.genruntimeconfig.cache
+C:\Users\44788197855\Desktop\BackEnd\Exrecicio21\obj\Debug\net9.0\ref\Exrecicio21.dll

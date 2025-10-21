@@ -1,0 +1,14 @@
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\bin\Debug\net9.0\Exerecicio15.exe
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\bin\Debug\net9.0\Exerecicio15.deps.json
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\bin\Debug\net9.0\Exerecicio15.runtimeconfig.json
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\bin\Debug\net9.0\Exerecicio15.dll
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\bin\Debug\net9.0\Exerecicio15.pdb
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.AssemblyInfoInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.AssemblyInfo.cs
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.csproj.CoreCompileInputs.cache
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.dll
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\refint\Exerecicio15.dll
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.pdb
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\Exerecicio15.genruntimeconfig.cache
+C:\Users\44788197855\Desktop\BackEnd\Exerecicio15\obj\Debug\net9.0\ref\Exerecicio15.dll
