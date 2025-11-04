@@ -1,0 +1,1 @@
+using PrimeiraClasse; //String nome = "Hugo"; //Cria um objeto do tipo Hello Hello cumprimento = new Hello(); cumprimento.TextoHello = "Olá usuário"; cumprimento.SaldarUsuario(); cumprimento.SaldarComNome("Francisco Hugo");
