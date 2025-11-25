@@ -45,11 +45,12 @@ public class Carro
         {
             velocidadeAtual -= valor;
 
-            if (velocidadeAtual < 0)
+       
+        }
+             if (velocidadeAtual < 0)
             {
                 velocidadeAtual = 0;
             }
-        }
     }
 }
 }
